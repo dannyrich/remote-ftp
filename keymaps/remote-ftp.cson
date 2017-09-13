@@ -3,4 +3,5 @@
   'ctrl-alt-d': 'remote-ftp:disconnect'
   'ctrl-alt-c': 'remote-ftp:connect'
   'cmd-shift-u': 'remote-ftp:upload-selected'
-  'f5': 'remote-ftp:download-active'
+  'cmd-alt-u': 'remote-ftp:upload-active'
+  'cmd-alt-o': 'remote-ftp:download-active'
