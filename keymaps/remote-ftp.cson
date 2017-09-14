@@ -1,7 +1,7 @@
 'atom-workspace':
-  'ctrl-alt-o': 'remote-ftp:toggle'
-  'ctrl-alt-d': 'remote-ftp:disconnect'
-  'ctrl-alt-c': 'remote-ftp:connect'
-  'cmd-shift-u': 'remote-ftp:upload-selected'
-  'cmd-alt-u': 'remote-ftp:upload-active'
-  'cmd-alt-o': 'remote-ftp:download-active'
+  'ctrl-alt-o': 'remote-ftp-plus:toggle'
+  'ctrl-alt-d': 'remote-ftp-plus:disconnect'
+  'ctrl-alt-c': 'remote-ftp-plus:connect'
+  'cmd-shift-u': 'remote-ftp-plus:upload-selected'
+  'cmd-alt-u': 'remote-ftp-plus:upload-active'
+  'cmd-alt-o': 'remote-ftp-plus:download-active'
