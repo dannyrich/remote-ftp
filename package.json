@@ -14,6 +14,11 @@
       "versions": {
         "1.0.0": "consumeElementIcons"
       }
+    },
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
     }
   },
   "dependencies": {
@@ -34,5 +39,10 @@
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.1.0"
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "dannyrich/remote-ftp",
+    "sha": "3fda980e7190298f5c24abe701a5b224102846de"
   }
 }
