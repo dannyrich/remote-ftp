@@ -43,6 +43,6 @@
   "apmInstallSource": {
     "type": "git",
     "source": "dannyrich/remote-ftp",
-    "sha": "c7fe0c174db3b1e95579414f8eb78cf589c425aa"
+    "sha": "93b98238878e3cec2fc74c0a02ba0469396fdb6f"
   }
 }
